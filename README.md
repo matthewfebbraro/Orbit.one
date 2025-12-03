@@ -1,6 +1,6 @@
 # ⟐Orbit.one
 
-**⟐Sync.one's Satellite Step Tracking App**  
+**⟐Sync.one's Satellite Step Tracking Module**  
 Step Tracker that creates daily step data for use within ⟐Sync.one: Adaptive Metablic Interface
 ---
 
